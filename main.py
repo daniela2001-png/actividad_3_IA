@@ -1,3 +1,4 @@
-print("Hello world! v2")
-print("Test 2")
-print("dani test")
+import pandas as pd
+
+# Gets dataframe from the source csv local file
+df = pd.read_csv('./Salary_dataset.csv')
