@@ -1,2 +1,2 @@
-# actividad_3_IA
-Desarrollo de la actividad 3 - Métodos de aprendizaje supervisado
+# IA
+Métodos de aprendizaje supervisado y no supervisado y EDA 
